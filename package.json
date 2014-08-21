@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/johndoe90/amqp-connect",
   "dependencies": {
-    "amqplib": "^0.2.1",
-    "application-initializer": "0.0.2"
+		"application-initializer": "^0.0.2",
+    "amqplib": "^0.2.1"
   },
  "readme": "ERROR: No README data found!"
 }
